@@ -13,4 +13,5 @@ wheels/
 data/
 
 *.keras
+*.h5
 /.github
